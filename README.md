@@ -21,4 +21,4 @@ El proyecto consiste en un chat usando Firebase y tiene varias pantallas las cua
 
 ## Demo del proyecto
 
-<img src="https://github.com/Sanduqd1997/reto2/blob/main/Multimedia1-_1_.gif" >
+<img src="https://github.com/Sanduqd1997/reto3-chatHumberto/blob/main/Multimedia1.gif" >
