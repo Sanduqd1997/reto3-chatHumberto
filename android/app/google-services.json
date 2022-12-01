@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457566508570",
+    "project_id": "chatenlineahumberto",
+    "storage_bucket": "chatenlineahumberto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457566508570:android:3911e975590b42270ee3a3",
+        "android_client_info": {
+          "package_name": "com.android.miapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457566508570-gji5nbm11jks3r40luvndru3bhjj2uqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS_gybj_O8fNNWRzqYGqNKpgGJpqJz0C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457566508570-gji5nbm11jks3r40luvndru3bhjj2uqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
